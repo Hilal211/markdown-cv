@@ -1,6 +1,6 @@
 Hilal Masri
 ============
-
+![image info](../New%20folder/profile.png)
 -------------------     ----------------------------
 **Adress:** Tripoli El Mina 
 
@@ -8,7 +8,7 @@ Hilal Masri
 
 **Email:** hilal1922001@gmail.com
 
-
+**Phone:** 70368513
 
 **Github:** https://github.com/Hilal211
 -------------------     ----------------------------
